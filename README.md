@@ -1,1 +1,1 @@
-#Multivariate Forecasting and Feature Detection with XGBoost
+Gradient boosted decision trees trained on historical weather data and data from SEF microgrid controllers.
