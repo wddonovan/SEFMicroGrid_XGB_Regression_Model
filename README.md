@@ -2,4 +2,4 @@ Gradient boosted decision trees trained on real historical weather and sensor da
 
 https://sefmicrogrid.com/overview/tour/
 
-Determines most imporant factors in determining future energy consumption of migro-grid.
+Determines most imporant factors in determining future energy consumption of migro-grid (answer seems kind of obvious, lowest_temp!)
