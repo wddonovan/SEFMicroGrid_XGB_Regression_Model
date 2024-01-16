@@ -1,4 +1,4 @@
-Gradient boosted decision trees trained on real historical weather and sensor data from SEF migro grid project 
+Supervised regression model (XGBoost) trained on real historical weather and sensor data from SEF migro grid project.
 
 https://sefmicrogrid.com/overview/tour/
 
