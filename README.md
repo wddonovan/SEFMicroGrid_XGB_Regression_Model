@@ -1,1 +1,1 @@
-Gradient boosted decision trees trained on historical weather and sensor data.
+Gradient boosted decision trees trained on real historical weather and sensor data
